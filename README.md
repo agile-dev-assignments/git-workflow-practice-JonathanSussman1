@@ -1,2 +1,3 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Neural Style Transfer: Creating Art with Deep Learning using tf.keras and eager execution
+Jonathan Sussman
+
